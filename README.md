@@ -3,16 +3,16 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/akshay-upadhya/">
+<a href="https://www.linkedin.com/in/akshay-upadhya/" target='_blank'>
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:akshayupadhya28@gmail.com">
+<a href="mailto:akshayupadhya28@gmail.com" target='_blank'>
   <img  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://leetcode.com/akshayupadhya/">
+<a href="https://leetcode.com/akshayupadhya/" target='_blank'>
   <img  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://twitter.com/akshayupadhya">
+<a href="https://twitter.com/akshayupadhya" target='_blank'>
   <img  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -22,7 +22,8 @@
 ### About Me 🚀
 💻 I’m a **Frontend developer** with 4 years of experience in Software development </br> </br>
 👨🏼‍💻 I work at [MTAP Technologies](https://www.mtap.in/) as Lead engineer </br></br>
-👨🏼‍💻 Here is my  [portfolio site](https://akshayupadhya.github.io?target=_blank)</br></br> 
+👨🏼‍💻 Here is my  [portfolio site](https://akshayupadhya.github.io)</br></br> 
+👨🏼‍💻 Here is my  <a href="https://akshayupadhya.github.io" target="_blank">Portfolio</a></br></br> 
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
     
 <br/>
