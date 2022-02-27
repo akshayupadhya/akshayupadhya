@@ -22,7 +22,7 @@
 ### About Me 🚀
 💻 I’m a **Frontend developer** with 4 years of experience in Software development </br> </br>
 👨🏼‍💻 I work at [MTAP Technologies](https://www.mtap.in/) as Lead engineer </br></br>
-👨🏼‍💻 Here is my  [portfolio site](https://akshayupadhya.github.io){:target="_blank"}</br></br> 
+👨🏼‍💻 Here is my  [portfolio site](https://akshayupadhya.github.io?target=_blank)</br></br> 
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
     
 <br/>
