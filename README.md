@@ -20,10 +20,14 @@
 
 
 ### About Me 🚀
-💻 I’m a **FullStack developer** with 4 years of experience in Software development </br> </br>
-👨🏼‍💻 I work at [MTAP Technologies](https://www.mtap.in/) as Lead engineer </br></br>
-👨🏼‍💻 Here is my  [portfolio site](https://akshayupadhya.github.io)</br></br> 
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+</br>
+
+- 🔭 I’m currently working on React, NestJS, Node, Postgres with TypeOrm ,Nx monorepo and Azure devops
+- 💬 I am a **Frontend Engineer** with 4+ years of experience in building web applications and having strong passion for clean and scalable coding. Also, I consistently learn technologies and practices to build software products efficiently.
+- 👨🏼‍💻 I work on [Autologix](https://autologix.io/) at [MTAP Technologies](https://www.mtap.in/) as Lead engineer 
+- 📫 How to reach me: https://twitter.com/akshayupadhya
+- 😄 Pronouns: He/Him
+
     
 <br/>
 <hr />
