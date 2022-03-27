@@ -18,6 +18,9 @@
 
 <br/>
 
+![](https://hit.yhype.me/github/profile?username=akshayupadhya)
+![](https://komarev.com/ghpvc/?username=akshayupadhya)
+
 
 ### About Me 🚀
 </br>
@@ -30,12 +33,6 @@
 
     
 <br/>
-<hr />
-  <div align="center">
-  <a href="https://github.com/akshayupadhya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayupadhya&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayupadhya&layout=compact&langs_count=7&theme=gradient"/>
-</div>
 
 ## ⚡ Technologies I love and use
   
@@ -54,3 +51,15 @@
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="vs code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </div>
+
+<hr />
+  <div align="center">
+  <a href="https://github.com/akshayupadhya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayupadhya&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayupadhya&layout=compact&langs_count=7&theme=gradient"/>
+</div>
+
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+[Username]: akshayupadhya
