@@ -18,7 +18,6 @@
 
 <br/>
 
-![](https://hit.yhype.me/github/profile?username=akshayupadhya)
 ![](https://komarev.com/ghpvc/?username=akshayupadhya)
 
 
