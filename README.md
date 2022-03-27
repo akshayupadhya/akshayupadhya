@@ -25,8 +25,8 @@
 ### About Me 🚀
 </br>
 
-- 🔭 I’m currently working on Typescript, React, Material-UI, RxJs, Akita, Inversify, NestJS, NodeJS, Postgres with TypeOrm, Nx monorepo and Azure devops
 - 💬 I am a **Frontend Engineer** with 4+ years of experience in building web applications and having strong passion for clean and scalable coding. Also, I consistently learn technologies and practices to build software products efficiently.
+- 🔭 I’m currently working on Typescript, React, Material-UI, RxJs, Akita, Inversify, NestJS, NodeJS, Postgres with TypeOrm, Nx monorepo and Azure devops
 - 👨🏼‍💻 I work on [Autologix](https://autologix.io/) at [MTAP Technologies](https://www.mtap.in/) as Lead engineer 
 - 📫 How to reach me: https://twitter.com/akshayupadhya
 - 😄 Pronouns: He/Him
